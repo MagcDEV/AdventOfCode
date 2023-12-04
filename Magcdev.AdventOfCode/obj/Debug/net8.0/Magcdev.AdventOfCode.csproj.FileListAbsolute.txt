@@ -1,0 +1,11 @@
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\bin\Debug\net8.0\Magcdev.AdventOfCode.deps.json
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\bin\Debug\net8.0\Magcdev.AdventOfCode.dll
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\bin\Debug\net8.0\Magcdev.AdventOfCode.pdb
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.AssemblyInfoInputs.cache
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.AssemblyInfo.cs
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.dll
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\refint\Magcdev.AdventOfCode.dll
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.pdb
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\ref\Magcdev.AdventOfCode.dll
