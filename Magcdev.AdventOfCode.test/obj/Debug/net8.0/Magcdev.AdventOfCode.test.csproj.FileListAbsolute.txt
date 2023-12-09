@@ -102,3 +102,6 @@ C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\obj\D
 C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\obj\Debug\net8.0\ref\Magcdev.AdventOfCode.test.dll
 C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\bin\Debug\net8.0\2023\01\input.txt
 C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\bin\Debug\net8.0\2023\01\test.txt
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\bin\Debug\net8.0\2023\02\input.txt
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\bin\Debug\net8.0\2023\02\test.txt
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode.test\obj\Debug\net8.0\Magcdev.AdventOfCode.test.sourcelink.json

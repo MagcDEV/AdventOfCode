@@ -9,3 +9,4 @@ C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\
 C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\refint\Magcdev.AdventOfCode.dll
 C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.pdb
 C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\ref\Magcdev.AdventOfCode.dll
+C:\Users\manue\Documents\workspaces\AdventOfCode\Magcdev.AdventOfCode\obj\Debug\net8.0\Magcdev.AdventOfCode.sourcelink.json
